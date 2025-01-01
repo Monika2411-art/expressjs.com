@@ -4,7 +4,7 @@ DEST="../../en/resources/contributing.md"
 
 # This script replaces the contents of a section with the contents from
 # the annotated source address.
-
+//git hub
 level=''
 src=''
 while IFS= read -r line; do
